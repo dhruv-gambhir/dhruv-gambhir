@@ -4,6 +4,4 @@
 - 👥 I’m looking to collaborate on any software development projects
 - 📫 Email me at gambhirdhruv03@gmail.com
 
-- Skills: C++, Javascript, TypeScript, ReactJS, NextJS, Python, GoLang.
-
-
+- Skills: C++, JavaScript, Python, Go, Bash.
