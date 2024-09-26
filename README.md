@@ -5,10 +5,9 @@
 
 - I am a software developer interested in Web and Systems Development.
 
-- Always looking to colloaborate on cool interesting projects. You can reach me at gambhirdhruv03@gmail.com.
+- Always looking to colloaborate on cool interesting projects.
 
-- Skills: C++, JavaScript, Python, Go, Bash.
-
+-  You can reach me at gambhirdhruv03@gmail.com.
 
 
 ![16](https://github.com/user-attachments/assets/94ffaf77-8bdf-48a0-95c8-e4e550ac7882)
