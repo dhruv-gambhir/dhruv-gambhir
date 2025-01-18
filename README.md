@@ -33,7 +33,6 @@
 ![7](https://github.com/user-attachments/assets/24231a3a-0f07-49df-8184-217ce798ab7e)
 ![8](https://github.com/user-attachments/assets/9bb0b4e5-bf36-4721-b896-dbb61a421cdb)
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-gambhir&show_icons=true&theme=radical)
 
 
 
